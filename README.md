@@ -1,8 +1,6 @@
 # SFDC_batch_account
 Apex batch code for Account object.
 <html>
-<title>
-</title>
 <body>
 Account 중 전날 update 된 이력이 있으면, <br/>
 매일 새벽 1시 (Daily Batch),<br/>
