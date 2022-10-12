@@ -1,0 +1,3 @@
+AccountUpdateBatchJobscheduled m = new AccountUpdateBatchJobscheduled();
+String sch = '0 0 1 * * ?';
+String jobID = system.schedule('Merge Job', sch, m);
